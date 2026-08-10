@@ -1,4 +1,4 @@
-# Vulnerabilty Analysis
+# Vulnerability Analysis
 
 This portion of the portfolio demonstrates vulnerability analysis and network enumeration using Nmap and SPARTA across Windows and Kali Linux virtual machines.
 
